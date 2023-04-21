@@ -10,12 +10,12 @@ Designer: [@chiptron.cz](https://twitter.com/chiptronCZ)
 
 You can buy on https://www.laskakit.cz/laskakit-bat-boost-menic-5v-0-6a-dio6605b/
 
-Specifications:
-Chip: DIO6605B
-Input Voltage: 2.6-4.5V
-Output voltage fixed: 5V
-Output current: 0.6A
-Switching frequency: 1.2 MHz
-Efficiency: 95% (max)
-Dimensions: 10.2x5.3x2.8mm
-Weight: 0.6g
+Specifications:<br>
+Chip: DIO6605B<br>
+Input Voltage: 2.6-4.5V<br>
+Output voltage fixed: 5V<br>
+Output current: 0.6A<br>
+Switching frequency: 1.2 MHz<br>
+Efficiency: 95% (max)<br>
+Dimensions: 10.2x5.3x2.8mm<br>
+Weight: 0.6g<br>
