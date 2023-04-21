@@ -10,12 +10,12 @@ Autor: [@chiptron.cz](https://twitter.com/chiptronCZ)
 
 Měnič můžeš objednat na https://www.laskakit.cz/laskakit-bat-boost-menic-5v-0-6a-dio6605b/
 
-Specifikace:
-Čip: DIO6605B
-Vstupní napětí: 2.6-4.5V
-Výstupní napětí fixní: 5V
-Výstupní proud: 0.6A
-Frekvence spínání: 1.2 MHz
-Účinnost: 95% (max)
-Rozměry: 10.2x5.3x2.8mm
-Váha: 0.6g
+Specifikace:<br>
+Čip: DIO6605B<br>
+Vstupní napětí: 2.6-4.5V<br>
+Výstupní napětí fixní: 5V<br>
+Výstupní proud: 0.6A<br>
+Frekvence spínání: 1.2 MHz<br>
+Účinnost: 95% (max)<br>
+Rozměry: 10.2x5.3x2.8mm<br>
+Váha: 0.6g<br>
