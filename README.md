@@ -12,7 +12,7 @@ You can buy on https://www.laskakit.cz/laskakit-bat-boost-menic-5v-0-6a-dio6605b
 
 Specifications:<br>
 Chip: DIO6605B<br>
-Input Voltage: 2.6-4.5V<br>
+Input Voltage: 2.7-4.5V<br>
 Output voltage fixed: 5V<br>
 Output current: 0.6A<br>
 Switching frequency: 1.2 MHz<br>
