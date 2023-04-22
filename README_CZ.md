@@ -12,7 +12,7 @@ Měnič můžeš objednat na https://www.laskakit.cz/laskakit-bat-boost-menic-5v
 
 Specifikace:<br>
 Čip: DIO6605B<br>
-Vstupní napětí: 2.6-4.5V<br>
+Vstupní napětí: 2.7-4.5V<br>
 Výstupní napětí fixní: 5V<br>
 Výstupní proud: 0.6A<br>
 Frekvence spínání: 1.2 MHz<br>
